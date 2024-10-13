@@ -1,7 +1,34 @@
 # PFG
 
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
+
 ## ¿QUIÉNES SOMOS?
 
-Somos una Financiera nueva que ha logrado encontrar un espacio en el mercado gracias a una fuerte inversión en publicidad que ha atraído a varios nuevos clientes. Esto le viene excelente a la empresa si no fuera por el hecho de que últimamente hemos identificado que varios de nuestros créditos están cayendo en Default por parte de los nuevos clientes.
+Práctica realizada con datos reales del sector financiero, enfocada en mejorar la gestión del riesgo crediticio. Identificada la necesidad de optimizar los procesos de evaluación de crédito para reducir el riesgo de default, este proyecto utiliza técnicas avanzadas de Machine Learning para clasificar a los nuevos clientes de manera más precisa, permitiendo una mejor segmentación de los riesgos y, en consecuencia, una mejor gestión de los créditos.
 
-Es por ello que la empresa ha decidido seguir con la campaña de marketing pero ajustar los filtros de entrada a los créditos. Con los datos recolectados a la actualidad vamos a hacer un modelo Machine Learning para clasificar a los clientes nuevos como "Buenos Clientes" o "Posible Default".
+## Estructura del Proyecto
+
+- **Limpieza_Procesamiento_Datos.py**: Script para la limpieza y procesamiento de datos.
+- **Entrega 3 - ETL.ipynb**: Notebook para el proceso ETL.
+- **clustering.txt**: Código para aplicar clustering a los datos.
+
+## Uso
+
+1. Ejecuta el script de limpieza de datos para preparar los datos.
+2. Usa el notebook de ETL para transformar y cargar los datos.
+3. Aplica el clustering para analizar los datos.
+
+## Autores
+[dixrow](https://github.com/dixrow)
+[gmartinezbe](https://github.com/gmartinezbe)
+[EduardoLoz12](https://github.com/EduardoLoz12)
+[mperezvic](https://github.com/mperezvic)
+[jvilaa30](https://github.com/jvilaa30)
+[pepelopelope](https://github.com/pepelopelope)
+[unaizabaleta](https://github.com/unaizabaleta)
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo LICENSE.
